@@ -205,3 +205,27 @@ body {
     left: 210px;
     top: -30px;
 }
+
+.xd15{
+    width: 50px;
+    height: 500px;
+    background-image: linear-gradient(to right, green, rgb(26, 71, 26));
+    box-shadow: 0px 0px 100px,10px 0px 30px 0px rgb(26, 71, 26) inset;
+    border-radius: 10px 10px 0px 0px;
+    position: absolute;
+    left: 310px;
+    top: 300px;
+    z-index: 1;
+}
+
+.xd16{
+    width: 150px;
+    height: 150px;
+    background-image: linear-gradient(to right, green, rgb(26, 71, 26));
+    box-shadow: 0px 0px 90px ,10px 0px 30px 0px rgb(26, 71, 26) inset;
+    border-radius: 10px 160px 10px 160px / 10px 100px 10px 100px ;
+    position: absolute;
+    left: 160px;
+    top: 450px;
+    z-index: 0;
+}
